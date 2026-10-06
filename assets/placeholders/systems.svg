@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Placeholder image">
-  <rect width="900" height="700" fill="#071412"/>
-  <rect x="80" y="120" width="740" height="90" rx="12" fill="#0c8f7b"/>
-  <rect x="80" y="240" width="480" height="90" rx="12" fill="#00594f"/>
-  <rect x="580" y="240" width="240" height="200" rx="12" fill="#134e48"/>
-  <rect x="80" y="360" width="480" height="180" rx="12" fill="#0b3d37"/>
-  <text x="80" y="70" fill="#9ddecb" font-family="Arial,sans-serif" font-size="24" letter-spacing="3">PLACEHOLDER</text>
-  <text x="110" y="175" fill="#fff" font-family="Arial,sans-serif" font-size="28">Enterprise systems</text>
-</svg>
