@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Placeholder image">
+  <rect width="1200" height="700" fill="#042824"/>
+  <g fill="none" stroke="#9ddecb" stroke-width="2">
+    <path d="M200 360h800M400 140v420M800 140v420"/>
+    <circle cx="400" cy="360" r="70"/>
+    <circle cx="800" cy="360" r="70"/>
+    <circle cx="600" cy="200" r="40"/>
+  </g>
+  <text x="80" y="90" fill="#9ddecb" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">PLACEHOLDER</text>
+  <text x="80" y="620" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="700">Risk network</text>
+</svg>

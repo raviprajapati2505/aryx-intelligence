@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Placeholder image">
+  <rect width="900" height="700" fill="#e7f3ef"/>
+  <circle cx="450" cy="340" r="70" fill="#00594f"/>
+  <circle cx="180" cy="180" r="36" fill="#0c8f7b"/>
+  <circle cx="720" cy="200" r="28" fill="#00594f"/>
+  <circle cx="160" cy="500" r="24" fill="#8dcec0"/>
+  <circle cx="700" cy="500" r="40" fill="#0c8f7b"/>
+  <path d="M210 200 400 310M690 220 500 320M190 480 400 380M660 480 500 380" stroke="#00594f" stroke-width="3" fill="none"/>
+  <text x="48" y="80" fill="#00594f" font-family="Arial,sans-serif" font-size="28" letter-spacing="3">PLACEHOLDER</text>
+  <text x="48" y="640" fill="#1a211e" font-family="Arial,sans-serif" font-size="32" font-weight="700">Connected signals</text>
+</svg>
