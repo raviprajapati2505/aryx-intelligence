@@ -121,10 +121,10 @@ export default function Layout() {
             <svg width="0" height="0" style={{ position: 'absolute' }} aria-hidden="true">
                 <defs>
                     <symbol id="emblem" viewBox="0 0 206 131">
-                        <polygon fill="#00483F" points="0,126 98,5 98,46" />
-                        <polygon fill="#00352E" points="5,128 98,59 97,91" />
-                        <polygon fill="#008775" points="108,2 205,126 107,44 107,24" />
-                        <polygon fill="#00685A" points="108,59 201,128 108,90" />
+                        <polygon fill="#053931" points="0,126 98,5 98,46" />
+                        <polygon fill="#031D19" points="5,128 98,59 97,91" />
+                        <polygon fill="#075549" points="108,2 205,126 107,44 107,24" />
+                        <polygon fill="#053931" points="108,59 201,128 108,90" />
                     </symbol>
                 </defs>
             </svg>
