@@ -1,0 +1,139 @@
+import { Link } from 'react-router-dom';
+
+export default function RiskDecisionIntelligencePage() {
+  return (
+    <main id={"top"}>
+<section className={"dark page-hero gl-through"} data-hero aria-labelledby={"h1"}>
+ <div className={"drag-zone"} data-drag aria-hidden={"true"}></div>
+ <svg className={"fallback-emblem"} aria-hidden={"true"}><use href={"#emblem"} /></svg>
+ <div className={"wrap"}><div className={"hero-copy"}>
+  <nav aria-label={"Breadcrumb"}><ol className={"crumbs"}><li><Link to={"/"}>Home</Link></li><li><Link to={"/#capabilities"}>Capabilities</Link></li><li><span aria-current={"page"}>Risk & Decision Intelligence</span></li></ol></nav>
+  <p className={"eyebrow"}>Risk & Decision Intelligence</p>
+  <h1 id={"h1"} data-split>Risk intelligence that leads to better decisions</h1>
+  <p className={"sub"}>Most organizations can list their risks. Few can see how they connect, what they mean together, or which decision they demand next. That is the gap we close.</p>
+  <div className={"ctas"}><Link className={"btn"} to={"/contact#area-risk"}>See Your Risk Clearly <span className={"arr"}></span></Link><Link className={"tlink"} to={"/contact#area-risk"}>Start a Strategic Conversation</Link></div>
+  <ul className={"anchors"} aria-label={"Capabilities on this page"}><li><a href={"#cap-enterprise-risk-intelligence"}>Enterprise risk intelligence</a></li><li><a href={"#cap-technology-risk"}>Technology risk</a></li><li><a href={"#cap-cyber-risk"}>Cyber risk</a></li><li><a href={"#cap-operational-risk"}>Operational risk</a></li><li><a href={"#cap-third-party-risk"}>Third-party risk</a></li><li><a href={"#cap-strategic-risk"}>Strategic risk</a></li><li><a href={"#cap-scenario-intelligence"}>Scenario intelligence</a></li><li><a href={"#cap-decision-intelligence"}>Decision intelligence</a></li><li><a href={"#cap-executive-risk-visibility"}>Executive risk visibility</a></li><li><a href={"#cap-resilience"}>Resilience</a></li></ul><ul className={"legend"} data-legend aria-label={"What the scene shows"}><li>Isolated risks</li><li>Connected network</li><li>Critical path</li></ul>
+ </div></div>
+ <p className={"drag-hint"}>Drag to turn the structure</p>
+</section>
+<div className={"cut"} aria-hidden={"true"}></div><section className={"light sec"} style={{paddingTop: "40px"}} aria-labelledby={"probH"}><div className={"wrap split"}><div><p className={"eyebrow rv"} style={{marginBottom: "16px"}}>The problem</p><h2 id={"probH"} className={"rv"}>Beyond the risk register</h2><div className={"prose-lg rv"}><p>Traditional governance, risk and compliance programs are built to document risk. They produce registers, heat maps and attestations, and they are necessary. But they are slow, static and siloed. A cyber incident at a supplier, a cloud outage and a regulatory change can combine into one serious exposure that no single register shows.</p><p>Risk intelligence is different in purpose. It is designed to inform decisions while there is still time to act.</p></div></div><div><div className={"defcard rv"}><p className={"eyebrow"}>Definition</p><p className={"def"}><strong>Risk intelligence</strong> is the continuous collection, connection and interpretation of risk signals across an organization and its ecosystem, so leaders understand their exposure as it changes.</p></div><div className={"defcard rv"}><p className={"eyebrow"}>Definition</p><p className={"def"}><strong>Decision intelligence</strong> is the discipline of linking data, analytics, AI and human judgment to specific decisions, with clear options, trade-offs and accountability.</p></div><p className={"prose-lg rv"} style={{marginTop: "20px"}}>Together they answer three questions: What is our exposure now? What could change it? What should we decide?</p></div></div></section>
+<section className={"light sec tight"} aria-labelledby={"cmpH"}><div className={"wrap"}><div className={"sec-head"}><div style={{display: "grid", gap: "18px"}}><p className={"eyebrow rv"}>The difference</p><h2 id={"cmpH"} className={"rv"} style={{fontSize: "clamp(30px,3.6vw,52px)"}}>How Aryx differs from a GRC consultancy</h2></div></div><div className={"cmp"}><div className={"cmp-head"}><span>Traditional GRC</span><span></span><span>Aryx risk and decision intelligence</span></div><div className={"cmp-row"}><span className={"a"}>Documents risks by function</span><span className={"arr2"} aria-hidden={"true"}></span><span className={"b"}>Connects risks across functions and third parties</span></div><div className={"cmp-row"}><span className={"a"}>Periodic assessment</span><span className={"arr2"} aria-hidden={"true"}></span><span className={"b"}>Continuous signals and triggers</span></div><div className={"cmp-row"}><span className={"a"}>Compliance as the goal</span><span className={"arr2"} aria-hidden={"true"}></span><span className={"b"}>Better decisions as the goal, compliance as a result</span></div><div className={"cmp-row"}><span className={"a"}>Heat maps</span><span className={"arr2"} aria-hidden={"true"}></span><span className={"b"}>Scenarios, quantified exposure and options</span></div><div className={"cmp-row"}><span className={"a"}>Reports to committees</span><span className={"arr2"} aria-hidden={"true"}></span><span className={"b"}>Decisions with owners, thresholds and actions</span></div></div></div></section>
+<section className={"light sec tight"} aria-labelledby={"capsH"}><div className={"wrap"}><div className={"sec-head"}><div style={{display: "grid", gap: "18px"}}><p className={"eyebrow rv"}>Capabilities</p><h2 id={"capsH"} className={"rv"}>What we do</h2></div><p className={"rv"}>10 connected services, each judged by the decision it improves.</p></div><div className={"rows"}><div className={"row rv"} id={"cap-enterprise-risk-intelligence"}><span className={"ix"}>01</span><h3>Enterprise risk intelligence</h3><p>A connected view of risk aligned to recognized frameworks such as ISO 31000 and COSO ERM, built for executive use.</p></div><div className={"row rv"} id={"cap-technology-risk"}><span className={"ix"}>02</span><h3>Technology risk</h3><p>Exposure from legacy systems, concentration, change and technical debt, expressed in business terms.</p></div><div className={"row rv"} id={"cap-cyber-risk"}><span className={"ix"}>03</span><h3>Cyber risk</h3><p>Threat and control data translated into likelihood and impact on critical services.</p></div><div className={"row rv"} id={"cap-operational-risk"}><span className={"ix"}>04</span><h3>Operational risk</h3><p>Process, people and system failures mapped to the services the organization cannot afford to lose.</p></div><div className={"row rv"} id={"cap-third-party-risk"}><span className={"ix"}>05</span><h3>Third-party risk</h3><p>Visibility into vendors, cloud providers and supply chains, including fourth-party and concentration exposure.</p></div><div className={"row rv"} id={"cap-strategic-risk"}><span className={"ix"}>06</span><h3>Strategic risk</h3><p>Risks to strategy itself: market shifts, regulatory direction, technology change and geopolitical exposure.</p></div><div className={"row rv"} id={"cap-scenario-intelligence"}><span className={"ix"}>07</span><h3>Scenario intelligence</h3><p>Structured scenarios and stress tests that show how combined events would play out and where thresholds would be crossed.</p></div><div className={"row rv"} id={"cap-decision-intelligence"}><span className={"ix"}>08</span><h3>Decision intelligence</h3><p>Decision models that set out options, consequences and confidence for leadership choices.</p></div><div className={"row rv"} id={"cap-executive-risk-visibility"}><span className={"ix"}>09</span><h3>Executive risk visibility</h3><p>Board and C-suite reporting that shows exposure, trend and required decisions on one page.</p></div><div className={"row rv"} id={"cap-resilience"}><span className={"ix"}>10</span><h3>Resilience</h3><p>Mapping important business services, impact tolerances and recovery capability, and testing them.</p></div></div></div></section>
+<section className={"tool"} aria-label={"Scenario explorer"}><div className={"wrap"}><div className={"sec-head"}><div style={{display: "grid", gap: "18px"}}><p className={"rv"}><span className={"tag"}>Interactive · illustrative</span></p><h2 className={"rv"} style={{fontSize: "clamp(32px,4vw,56px)"}}>What happens when two risks arrive together?</h2></div><p className={"rv"}>Combine two events and see how they connect through shared assets, suppliers, processes or triggers.</p></div><div className={"tool-box"} data-scen data-events={"[{\"name\": \"A software supplier breach\", \"verb\": \"exposes the data and access that supplier holds\", \"svc\": [\"Payments\", \"Customer data\"], \"mech\": [1, 0]}, {\"name\": \"A regional cloud outage\", \"verb\": \"takes hosted services offline\", \"svc\": [\"Payments\", \"Digital channels\"], \"mech\": [0, 1, 3]}, {\"name\": \"A new reporting rule\", \"verb\": \"tightens a deadline and the evidence it needs\", \"svc\": [\"Regulatory reporting\"], \"mech\": [2]}, {\"name\": \"An extreme heat event\", \"verb\": \"stresses facilities, staff and power\", \"svc\": [\"Operations\", \"Data centre\"], \"mech\": [3, 0]}, {\"name\": \"A ransomware attack\", \"verb\": \"encrypts core systems\", \"svc\": [\"Payments\", \"Operations\", \"Regulatory reporting\"], \"mech\": [0, 2]}, {\"name\": \"The loss of a key operator\", \"verb\": \"removes the person who knows the fallback\", \"svc\": [\"Operations\", \"Regulatory reporting\"], \"mech\": [2]}]"}><div className={"scen"}><div><p className={"tool-note"} style={{margin: "0 0 14px"}}>Choose two events.</p><div className={"evs"}><button type={"button"} className={"ev"} aria-pressed={"false"}><small>Event 01</small>A software supplier breach</button><button type={"button"} className={"ev"} aria-pressed={"false"}><small>Event 02</small>A regional cloud outage</button><button type={"button"} className={"ev"} aria-pressed={"false"}><small>Event 03</small>A new reporting rule</button><button type={"button"} className={"ev"} aria-pressed={"false"}><small>Event 04</small>An extreme heat event</button><button type={"button"} className={"ev"} aria-pressed={"false"}><small>Event 05</small>A ransomware attack</button><button type={"button"} className={"ev"} aria-pressed={"false"}><small>Event 06</small>The loss of a key operator</button></div></div><div className={"scen-out"} aria-live={"polite"}></div></div>
+ <p className={"tool-note"}>Illustrative only. A real scenario uses your own services, suppliers and thresholds.</p></div></div></section>
+<section className={"light sec"} aria-labelledby={"stpH"}><div className={"wrap"}><div className={"sec-head"}><div style={{display: "grid", gap: "18px"}}><p className={"eyebrow rv"}>How we work</p><h2 id={"stpH"} className={"rv"}>The Aryx decision loop</h2></div><p className={"rv"}>Steps advance on their own while in view. Select one to stop and read.</p></div><div className={"stepper"} data-stepper><ul className={"step-nav"} role={"tablist"}><li><button role={"tab"} aria-selected={"false"} aria-controls={"stp-0"}><span className={"n"}>01</span><span className={"t"}>Sense</span></button></li><li><button role={"tab"} aria-selected={"false"} aria-controls={"stp-1"}><span className={"n"}>02</span><span className={"t"}>Connect</span></button></li><li><button role={"tab"} aria-selected={"false"} aria-controls={"stp-2"}><span className={"n"}>03</span><span className={"t"}>Assess</span></button></li><li><button role={"tab"} aria-selected={"false"} aria-controls={"stp-3"}><span className={"n"}>04</span><span className={"t"}>Decide</span></button></li><li><button role={"tab"} aria-selected={"false"} aria-controls={"stp-4"}><span className={"n"}>05</span><span className={"t"}>Act and learn</span></button></li></ul><div className={"step-panel"} id={"stp-0"} role={"tabpanel"} data-step hidden><p className={"big"}>Sense</p><p>Gather signals from cyber, technology, operations, third parties and the external environment.</p></div><div className={"step-panel"} id={"stp-1"} role={"tabpanel"} data-step hidden><p className={"big"}>Connect</p><p>Link signals to assets, services and objectives so their combined meaning is visible.</p></div><div className={"step-panel"} id={"stp-2"} role={"tabpanel"} data-step hidden><p className={"big"}>Assess</p><p>Quantify exposure where possible and state confidence honestly where not.</p></div><div className={"step-panel"} id={"stp-3"} role={"tabpanel"} data-step hidden><p className={"big"}>Decide</p><p>Present options with trade-offs, owners and thresholds.</p></div><div className={"step-panel"} id={"stp-4"} role={"tabpanel"} data-step hidden><p className={"big"}>Act and learn</p><p>Track actions and outcomes, and feed what is learned back into the model.</p></div></div></div></section>
+<section className={"light sec tight"} aria-label={"Connected capabilities"}><div className={"wrap"}><p className={"eyebrow rv"} style={{marginBottom: "22px"}}>Connected capabilities</p><div className={"related"}><Link className={"rel rv"} to={"/cybersecurity"}><small>Cybersecurity</small><b>cyber risk in business terms</b><span className={"go"}>Read more →</span></Link><Link className={"rel rv"} to={"/enterprise-ai"}><small>Enterprise AI</small><b>AI governance and oversight</b><span className={"go"}>Read more →</span></Link><Link className={"rel rv"} to={"/climate-intelligence"}><small>Climate Intelligence</small><b>physical and transition risk</b><span className={"go"}>Read more →</span></Link></div></div></section>
+<section className={"light sec"} aria-labelledby={"faqH"}><div className={"wrap split"}>
+ <div><p className={"eyebrow rv"} style={{marginBottom: "16px"}}>FAQ</p><h2 id={"faqH"} className={"rv"} style={{fontSize: "clamp(32px,3.6vw,54px)"}}>Questions leaders ask</h2></div>
+ <div className={"faq"}><details className={"rv"}><summary>What is the difference between risk management and risk intelligence?</summary><p>Risk management is the overall discipline. Risk intelligence is its forward-looking, connected layer: it interprets changing signals so leaders can act before risks materialize.</p></details><details className={"rv"}><summary>What is integrated risk management?</summary><p>Integrated risk management brings risk domains such as cyber, technology, operational and third-party risk into one framework and view, so interdependencies are visible.</p></details><details className={"rv"}><summary>Can risk be quantified?</summary><p>Many risks can be estimated in financial or operational terms using scenarios and models. Where data is limited, the honest answer is a range with stated confidence.</p></details><details className={"rv"}><summary>Does Aryx replace our GRC platform?</summary><p>No. Aryx works with existing GRC tools and data, adding the connection, interpretation and decision layer that registers alone do not provide.</p></details></div></div></section>
+<section className={"dark closing gl-through"} id={"closing"} data-closing aria-labelledby={"closeH"}>
+ <div className={"drag-zone"} data-drag aria-hidden={"true"}></div>
+ <svg className={"fallback-emblem"} aria-hidden={"true"}><use href={"#emblem"} /></svg>
+ <div className={"wrap"}><div className={"copy"}>
+  <p className={"eyebrow rv"}>Complexity, made decisive</p><h2 id={"closeH"} className={"rv"}>See how your risks connect, before events connect them for you.</h2>
+  <div className={"ctas rv"}><Link className={"btn"} to={"/contact#area-risk"}>See Your Risk Clearly <span className={"arr"}></span></Link></div>
+ </div></div>
+</section>
+</main>
+  );
+}
+
+RiskDecisionIntelligencePage.meta = {
+    "path": "/risk-decision-intelligence",
+    "title": "Risk Intelligence & Decision Intelligence | Aryx",
+    "description": "Connect technology, cyber, operational, third-party and strategic risk into one executive view. Risk and decision intelligence from Aryx Intelligence.",
+    "canonical": "https://aryxintelligence.com/risk-decision-intelligence",
+    "scene": "risk",
+    "pathIndex": null,
+    "jsonLd": [
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Aryx Intelligence",
+            "url": "https://aryxintelligence.com",
+            "logo": "https://aryxintelligence.com/logo.png",
+            "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Doha",
+                "addressCountry": "QA"
+            }
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://aryxintelligence.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Capabilities",
+                    "item": "https://aryxintelligence.com/#capabilities"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Risk & Decision Intelligence",
+                    "item": "https://aryxintelligence.com/"
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Service",
+            "name": "Risk & Decision Intelligence",
+            "description": "Connect technology, cyber, operational, third-party and strategic risk into one executive view. Risk and decision intelligence from Aryx Intelligence.",
+            "provider": {
+                "@type": "Organization",
+                "name": "Aryx Intelligence"
+            },
+            "areaServed": [
+                "Qatar",
+                "GCC"
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "What is the difference between risk management and risk intelligence?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Risk management is the overall discipline. Risk intelligence is its forward-looking, connected layer: it interprets changing signals so leaders can act before risks materialize."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is integrated risk management?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Integrated risk management brings risk domains such as cyber, technology, operational and third-party risk into one framework and view, so interdependencies are visible."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can risk be quantified?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Many risks can be estimated in financial or operational terms using scenarios and models. Where data is limited, the honest answer is a range with stated confidence."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Does Aryx replace our GRC platform?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "No. Aryx works with existing GRC tools and data, adding the connection, interpretation and decision layer that registers alone do not provide."
+                    }
+                }
+            ]
+        }
+    ]
+};

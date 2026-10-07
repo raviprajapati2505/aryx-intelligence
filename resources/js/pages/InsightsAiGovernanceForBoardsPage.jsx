@@ -1,0 +1,132 @@
+import { Link } from 'react-router-dom';
+
+export default function InsightsAiGovernanceForBoardsPage() {
+  return (
+    <main id={"top"}>
+<div className={"progress"} aria-hidden={"true"}></div>
+<section className={"art-hero"} aria-labelledby={"h1"}><div className={"wrap grid"}><div style={{display: "grid", gap: "22px"}}><nav aria-label={"Breadcrumb"}><ol className={"crumbs"}><li><Link to={"/"}>Home</Link></li><li><Link to={"/insights"}>Insights</Link></li><li><span aria-current={"page"}>AI Governance for Boards: The Questions That Now Define Oversight</span></li></ol></nav><p className={"eyebrow"}>AI governance · Boards</p><h1 id={"h1"}>AI Governance for Boards: The Questions That Now Define Oversight</h1>
+<p className={"meta"}><span>6 min read</span><span>Published <span className={"ph"}>[DATE]</span></span><span>By <span className={"ph"}>[AUTHOR]</span></span></p></div>
+<div className={"fig"} aria-hidden={"true"}><svg viewBox={"0 0 200 125"} role={"img"} aria-label={"The Four A's: Appetite, Accountability, Assurance, Adaptation"}><g transform={"translate(40 8)"}><polygon className={"ff"} points={"2,2 58,2 58,52 2,52"} /><polygon className={"fl"} points={"2,2 58,2 58,52 2,52"} /><polygon className={"fl"} points={"62,2 106,2 118,14 118,52 62,52"} /><polygon className={"fl"} points={"2,56 58,56 58,108 2,108"} /><polygon className={"fl"} points={"62,56 118,56 118,108 62,108"} /><text x={"7"} y={"47"}>APPETITE</text><text x={"67"} y={"47"}>ACCOUNTABILITY</text><text x={"7"} y={"102"}>ASSURANCE</text><text x={"67"} y={"102"}>ADAPTATION</text></g></svg></div></div></section>
+<section className={"light"}><div className={"wrap art-layout"}><nav className={"toc"} aria-label={"On this page"}><p>On this page</p><a href={"#executive-introduction"}>Executive introduction</a><a href={"#what-is-ai-governance"}>What is AI governance?</a><a href={"#why-ai-is-now-a-board-matter"}>Why AI is now a board matter</a><a href={"#the-four-a-s-of-board-ai-oversight"}>The Four A's of board AI oversight</a><a href={"#appetite-setting-the-boundaries"}>Appetite: setting the boundaries</a><a href={"#accountability-the-ai-register"}>Accountability: the AI register</a><a href={"#assurance-evidence-not-comfort"}>Assurance: evidence, not comfort</a><a href={"#adaptation-governing-a-moving-target"}>Adaptation: governing a moving target</a><a href={"#common-failure-modes"}>Common failure modes</a><a href={"#what-this-means-for-business-leaders"}>What this means for business leaders</a><a href={"#questions-leaders-should-be-asking"}>Questions leaders should be asking</a><a href={"#aryx-intelligence-perspective"}>Aryx Intelligence perspective</a><a href={"#conclusion"}>Conclusion</a><a href={"#faq"}>FAQ</a></nav>
+<article className={"article"}><div className={"byline"}><span className={"av"}><svg aria-hidden={"true"}><use href={"#emblem"} /></svg></span><span><b><span className={"ph"}>[AUTHOR NAME, TITLE]</span></b><small>Bio and verifiable credentials <span className={"ph"}>[CONFIRM]</span></small></span></div><h2 id={"executive-introduction"}>Executive introduction</h2><p className={"sum"}>AI governance for boards stopped being optional when regulators began naming boards directly. In Qatar, the central bank's AI Guideline for licensed entities, in force since 4 September 2024, places accountability for AI with the board of directors and senior management, and requires prior supervisory approval before high-risk AI systems go live. (<a href={"https://www.qcb.gov.qa/Services/Financial%20Technology/QCB_Artificial_Intelligence_Guideline.pdf"} rel={"noopener"} target={"_blank"}>QCB AI Guideline</a>; <a href={"https://regulations.ai/regulations/RAI-QA-NA-QCBAIXX-2024"} rel={"noopener"} target={"_blank"}>summary</a>)</p><p>That is a different posture from "management will keep us informed." It means directors must be able to say what AI the organization uses, how risky it is, who owns it, and how they know it is working as intended. Most boards cannot yet answer all four.</p><h2 id={"what-is-ai-governance"}>What is AI governance?</h2><p>AI governance is the system of policies, roles, controls and oversight that ensures an organization's AI is used lawfully, safely and in line with its strategy and risk appetite, across the full lifecycle from procurement or design to retirement.</p><p>Board-level AI governance is narrower. It is the board's role in setting direction and appetite, holding management accountable and obtaining assurance that the system works. The board does not run AI governance; it makes sure it exists and is effective.</p><h2 id={"why-ai-is-now-a-board-matter"}>Why AI is now a board matter</h2><p>Three shifts moved AI from the technology agenda to the boardroom.</p><p><strong>AI now makes or shapes consequential decisions.</strong> Credit, pricing, hiring, fraud detection and customer service increasingly run through models. Errors scale instantly and can be discriminatory, opaque or hard to reverse.</p><p><strong>Regulation is assigning accountability.</strong> Beyond Qatar's banking rules, the EU AI Act applies to organizations that place AI on the EU market or whose AI outputs are used there, including many GCC groups. Its transparency obligations under Article 50 have applied since 2 August 2026, while obligations for stand-alone high-risk systems were deferred to 2 December 2027 by the Digital Omnibus. (<a href={"https://www.orrick.com/en/Insights/2026/07/EU-AI-Act-Update-Digital-Omnibus-Finalizes-8-Compliance-Changes"} rel={"noopener"} target={"_blank"}>Orrick</a>; <a href={"https://www.morganlewis.com/pubs/2026/06/eu-approves-delays-and-other-amendments-to-certain-eu-ai-act-obligations-what-businesses-should-know"} rel={"noopener"} target={"_blank"}>Morgan Lewis</a>)</p><p><strong>AI arrives unannounced.</strong> Much enterprise AI is embedded in vendor software, SaaS platforms and employee tools. A board that only oversees AI projects misses most of the AI in use.</p><h2 id={"the-four-a-s-of-board-ai-oversight"}>The Four A's of board AI oversight</h2><div className={"figbox"}><div className={"fig"}><svg viewBox={"0 0 200 125"} role={"img"} aria-label={"The Four A's: Appetite, Accountability, Assurance, Adaptation"}><g transform={"translate(40 8)"}><polygon className={"ff"} points={"2,2 58,2 58,52 2,52"} /><polygon className={"fl"} points={"2,2 58,2 58,52 2,52"} /><polygon className={"fl"} points={"62,2 106,2 118,14 118,52 62,52"} /><polygon className={"fl"} points={"2,56 58,56 58,108 2,108"} /><polygon className={"fl"} points={"62,56 118,56 118,108 62,108"} /><text x={"7"} y={"47"}>APPETITE</text><text x={"67"} y={"47"}>ACCOUNTABILITY</text><text x={"7"} y={"102"}>ASSURANCE</text><text x={"67"} y={"102"}>ADAPTATION</text></g></svg></div></div><p>Aryx uses a simple model to separate what boards must own from what management must run.</p><div className={"tbl"}><table> <thead> <tr> <th>Dimension</th> <th>The board's question</th> <th>What good looks like</th> </tr> </thead> <tbody> <tr> <td><strong>Appetite</strong></td> <td>Where will we use AI, and where will we not?</td> <td>A board-approved AI risk appetite, with prohibited and high-risk uses defined</td> </tr> <tr> <td><strong>Accountability</strong></td> <td>Who owns each AI system and its outcomes?</td> <td>Named executive owners, a complete AI register, clear escalation paths</td> </tr> <tr> <td><strong>Assurance</strong></td> <td>How do we know AI is working as intended?</td> <td>Independent validation, monitoring for drift and bias, internal audit coverage</td> </tr> <tr> <td><strong>Adaptation</strong></td> <td>Are we keeping pace with technology and regulation?</td> <td>Periodic review of policy, skills and regulatory exposure; board education</td> </tr> </tbody> </table></div><p>Each dimension fails differently. Weak appetite produces either reckless adoption or paralysis. Weak accountability produces orphaned models. Weak assurance produces confidence without evidence. Weak adaptation produces a policy written for last year's technology.</p><h2 id={"appetite-setting-the-boundaries"}>Appetite: setting the boundaries</h2><p>An AI risk appetite statement translates strategy into limits. It should state which uses the organization actively pursues, which require enhanced controls and which are off-limits, for example fully automated decisions with significant effects on customers or employees.</p><p>Risk classification makes the appetite usable. Both the QCB Guideline and the EU AI Act use tiered approaches, in which systems affecting access to financial services, employment or sensitive personal data attract the heaviest obligations. Aligning internal tiers with these external ones avoids running two systems.</p><h2 id={"accountability-the-ai-register"}>Accountability: the AI register</h2><p>You cannot govern AI you cannot see. An AI register, or inventory, records every AI system in use: its purpose, owner, risk tier, data sources, vendor, validation status and monitoring arrangements. Qatar's banking guideline requires one and its annual submission to the supervisor. (<a href={"https://regulations.ai/regulations/RAI-QA-NA-SUMMARY-2026"} rel={"noopener"} target={"_blank"}>regulations.ai summary</a>)</p><p>The hard part is completeness. Embedded and employee-adopted AI rarely appears in project portfolios. Procurement controls, software asset data and periodic declarations from business units are usually needed to find it.</p><h2 id={"assurance-evidence-not-comfort"}>Assurance: evidence, not comfort</h2><p>Boards should expect the same rigor for AI as for financial reporting. That means pre-deployment validation for high-risk systems, ongoing monitoring of performance, fairness and drift, human oversight that is real rather than nominal, and coverage in the internal audit plan.</p><p>Standards help. ISO/IEC 42001 sets out requirements for an AI management system, and the NIST AI Risk Management Framework offers a widely used structure for mapping, measuring and managing AI risk. Neither replaces judgment, but both give boards a recognized benchmark.</p><h2 id={"adaptation-governing-a-moving-target"}>Adaptation: governing a moving target</h2><p>AI capability changes faster than most governance cycles. Agentic AI, which takes actions across systems rather than only producing outputs, raises new questions of permissions and liability. Regulation also moves: the EU's deferral shows that deadlines change while direction holds.</p><p>Boards adapt by scheduling AI as a standing agenda item, investing in director education and asking management for a regular horizon scan of technology and regulation.</p><h2 id={"common-failure-modes"}>Common failure modes</h2><ul><li><strong>Delegating AI entirely to the technology committee.</strong> AI risk is also conduct, legal, operational and strategic risk.</li><li><strong>Governing projects, not systems.</strong> Oversight ends at go-live, exactly when risk begins.</li><li><strong>Policy without inventory.</strong> A well-drafted policy covering an unknown estate gives false assurance.</li><li><strong>Treating deferral as relief.</strong> Delayed deadlines are time to build, not time to pause.</li></ul><h2 id={"what-this-means-for-business-leaders"}>What this means for business leaders</h2><ol><li>AI oversight is now a named board responsibility in some jurisdictions, and a reasonable expectation everywhere.</li><li>An AI register is the foundation; without it, every other control is partial.</li><li>Risk appetite for AI should be explicit, approved and tied to risk tiers that mirror regulation.</li><li>Assurance must continue after deployment, through monitoring and internal audit.</li><li>Regulatory timelines move, but the direction toward accountability does not.</li></ol><h2 id={"questions-leaders-should-be-asking"}>Questions leaders should be asking</h2><ol className={"qlist"}><li>How many AI systems are in use across the organization, including those embedded in vendor products?</li><li>Which of them would be classified as high-risk under the regulations that apply to us?</li><li>Who is the accountable executive for each high-risk system?</li><li>What is our board-approved risk appetite for AI, and where is it written down?</li><li>When did internal audit last review an AI system, and what did it find?</li><li>How would we know if a model's performance or fairness had degraded?</li><li>Which regulatory deadlines affect us in the next 24 months, in the GCC and abroad?</li><li>Does the board have enough AI literacy to challenge management effectively?</li></ol><h2 id={"aryx-intelligence-perspective"}>Aryx Intelligence perspective</h2><div className={"persp"}><p>At Aryx, we see AI governance as a decision problem before it is a compliance problem. Boards do not need to understand model architectures. They need a clear view of where AI influences decisions that matter, how much risk those decisions carry, and whether the evidence supports the confidence management expresses.</p><p>That view depends on connecting information that usually sits apart: the technology estate, the risk register, vendor contracts, regulatory obligations and audit findings. When those are connected, AI governance stops being a policy document and becomes a working oversight system.</p></div><h2 id={"conclusion"}>Conclusion</h2><p>The question for boards is no longer whether to govern AI, but whether they can show that they do. The organizations that move first will not only meet regulatory expectations; they will be the ones able to adopt AI faster, because they will know where its risks are.</p><h2 id={"faq"}>FAQ</h2><details><summary>What is AI governance for boards?</summary><p>It is the board's role in setting AI risk appetite, assigning accountability, obtaining assurance and keeping AI oversight current. Management runs AI governance; the board ensures it is effective.</p></details><details><summary>Is AI governance a legal requirement for boards?</summary><p>In some sectors and jurisdictions, yes. Qatar's central bank, for example, places AI accountability with the boards of licensed entities. Elsewhere it is increasingly a fiduciary expectation.</p></details><details><summary>What is an AI register?</summary><p>An AI register is an inventory of every AI system an organization uses, recording its purpose, owner, risk level, data, vendor and controls.</p></details><details><summary>Does the EU AI Act apply to companies in the GCC?</summary><p>It can. The Act applies to providers placing AI on the EU market and to deployers whose AI outputs are used in the EU, regardless of where they are based.</p></details><details><summary>When do EU AI Act high-risk obligations apply?</summary><p>For stand-alone high-risk systems listed in Annex III, from 2 December 2027, following the Digital Omnibus. Transparency obligations under Article 50 have applied since 2 August 2026.</p></details><details><summary>What is ISO/IEC 42001?</summary><p>ISO/IEC 42001 is the international standard for AI management systems, setting requirements for establishing, operating and improving AI governance within an organization.</p></details></article></div></section>
+<section className={"light sec tight"} aria-label={"Related insights"}><div className={"wrap"}><p className={"eyebrow rv"} style={{marginBottom: "22px"}}>Related insights</p><div className={"ins-grid"}><Link className={"art rv"} to={"/insights/integrated-risk-management"} data-cat={"risk"}><div className={"fig"} aria-hidden={"true"}><svg viewBox={"0 0 200 125"} role={"img"} aria-label={"Maturity path: Siloed, Aggregated, Integrated, Intelligent"}><g transform={"translate(14 10)"}><polygon className={"ff"} points={"126,20 170,20 170,104 126,104"} /><polyline className={"fl"} points={"0,104 0,82 42,82 42,62 84,62 84,40 126,40 126,20 170,20 170,104 0,104"} /><line className={"fl"} x1={"42"} y1={"82"} x2={"42"} y2={"104"} /><line className={"fl"} x1={"84"} y1={"62"} x2={"84"} y2={"104"} /><line className={"fl"} x1={"126"} y1={"40"} x2={"126"} y2={"104"} /><text x={"4"} y={"98"}>SILOED</text><text x={"46"} y={"98"}>AGGREGATED</text><text x={"88"} y={"98"}>INTEGRATED</text><text x={"130"} y={"98"}>INTELLIGENT</text></g></svg></div><div className={"art-body"}><p className={"meta"}>Risk intelligence · CROs</p><h3>Integrated Risk Management: Seeing the Risks Between Your Risk Registers</h3><p className={"slug"}>5 min read · /insights/integrated-risk-management</p></div></Link><Link className={"art rv"} to={"/insights/climate-risk-management-banking"} data-cat={"climate risk"}><div className={"fig"} aria-hidden={"true"}><svg viewBox={"0 0 200 125"} role={"img"} aria-label={"Climate Intelligence Stack"}><g transform={"translate(30 8)"}><polygon className={"ff"} points={"20,6 140,6 120,26 0,26"} /><polygon className={"fl"} points={"20,6 140,6 120,26 0,26"} /><polygon className={"fl"} points={"20,32 140,32 120,52 0,52"} /><polygon className={"fl"} points={"20,58 140,58 120,78 0,78"} /><polygon className={"fl"} points={"20,84 140,84 120,104 0,104"} /><text x={"30"} y={"19"}>DECISIONS</text><text x={"30"} y={"45"}>RISK & SCENARIOS</text><text x={"30"} y={"71"}>ANALYTICS</text><text x={"30"} y={"97"}>EMISSIONS DATA</text></g></svg></div><div className={"art-body"}><p className={"meta"}>Climate · Banking</p><h3>Climate Risk Management in Banking: From Disclosure to Decision</h3><p className={"slug"}>6 min read · /insights/climate-risk-management-banking</p></div></Link><Link className={"art rv"} to={"/insights/cyber-resilience-strategy"} data-cat={"cyber executive"}><div className={"fig"} aria-hidden={"true"}><svg viewBox={"0 0 200 125"} role={"img"} aria-label={"Four pillars of cyber resilience"}><g transform={"translate(18 6)"}><polygon className={"fl"} points={"0,14 164,14 154,4 10,4"} /><polygon className={"ff"} points={"8,20 34,20 34,100 8,100"} /><rect className={"fl"} x={"8"} y={"20"} width={"26"} height={"80"} /><rect className={"fl"} x={"50"} y={"20"} width={"26"} height={"80"} /><rect className={"fl"} x={"92"} y={"20"} width={"26"} height={"80"} /><rect className={"fl"} x={"134"} y={"20"} width={"26"} height={"80"} /><line className={"fl"} x1={"0"} y1={"108"} x2={"168"} y2={"108"} /><text x={"2"} y={"118"}>ANTICIPATE · WITHSTAND · RECOVER · ADAPT</text></g></svg></div><div className={"art-body"}><p className={"meta"}>Cyber resilience · Boards</p><h3>Cyber Resilience Strategy: Leading When Prevention Is Not Enough</h3><p className={"slug"}>5 min read · /insights/cyber-resilience-strategy</p></div></Link></div></div></section>
+<section className={"light sec tight"} aria-label={"Next step"}><div className={"wrap"}><div className={"newsband rv"}><div><h2>Bring this to your own decision.</h2><p>Tell us the decision in front of you and we will show you what intelligence would change it.</p></div><div><Link className={"btn"} to={"/contact"}>Start a Strategic Conversation <span className={"arr"}></span></Link></div></div></div></section>
+</main>
+  );
+}
+
+InsightsAiGovernanceForBoardsPage.meta = {
+    "path": "/insights/ai-governance-for-boards",
+    "title": "AI Governance for Boards: What Directors Must Ask | Aryx",
+    "description": "AI governance for boards is now a fiduciary issue. The oversight model, regulatory context and questions directors need for GCC and global enterprises.",
+    "canonical": "https://aryxintelligence.com/insights/ai-governance-for-boards",
+    "scene": null,
+    "pathIndex": null,
+    "jsonLd": [
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Aryx Intelligence",
+            "url": "https://aryxintelligence.com",
+            "logo": "https://aryxintelligence.com/logo.png",
+            "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Doha",
+                "addressCountry": "QA"
+            }
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://aryxintelligence.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Insights",
+                    "item": "https://aryxintelligence.com/insights"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "AI Governance for Boards: The Questions That Now Define Oversight",
+                    "item": "https://aryxintelligence.com/"
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "AI Governance for Boards: The Questions That Now Define Oversight",
+            "description": "AI governance for boards is now a fiduciary issue. The oversight model, regulatory context and questions directors need for GCC and global enterprises.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Aryx Intelligence"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "[AUTHOR]"
+            }
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "What is AI governance for boards?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "It is the board's role in setting AI risk appetite, assigning accountability, obtaining assurance and keeping AI oversight current. Management runs AI governance; the board ensures it is effective."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is AI governance a legal requirement for boards?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "In some sectors and jurisdictions, yes. Qatar's central bank, for example, places AI accountability with the boards of licensed entities. Elsewhere it is increasingly a fiduciary expectation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is an AI register?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "An AI register is an inventory of every AI system an organization uses, recording its purpose, owner, risk level, data, vendor and controls."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Does the EU AI Act apply to companies in the GCC?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "It can. The Act applies to providers placing AI on the EU market and to deployers whose AI outputs are used in the EU, regardless of where they are based."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When do EU AI Act high-risk obligations apply?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "For stand-alone high-risk systems listed in Annex III, from 2 December 2027, following the Digital Omnibus. Transparency obligations under Article 50 have applied since 2 August 2026."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is ISO/IEC 42001?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "ISO/IEC 42001 is the international standard for AI management systems, setting requirements for establishing, operating and improving AI governance within an organization."
+                    }
+                }
+            ]
+        }
+    ]
+};

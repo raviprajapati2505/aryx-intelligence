@@ -1,0 +1,1665 @@
+[
+    {
+        "path": "/",
+        "title": "Aryx Intelligence",
+        "description": "Aryx Intelligence connects AI, cyber, risk, climate and enterprise technology to help leaders make clearer, faster, defensible decisions. Based in Qatar.",
+        "canonical": "https://aryxintelligence.com/",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What is Aryx Intelligence?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company. It connects AI, cybersecurity, risk, climate and enterprise technology to help organizations make clearer, defensible decisions."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is decision intelligence?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Decision intelligence is the discipline of connecting data, analytics and AI to specific business decisions. It focuses on improving the quality, speed and accountability of choices rather than producing reports."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How is Aryx different from a cybersecurity or AI consultancy?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Aryx treats AI, cyber and risk as connected disciplines. Instead of solving one domain in isolation, it focuses on the decisions that depend on all of them."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Which organizations does Aryx work with?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Aryx serves boards, executives and public-sector leaders in sectors including banking, government, energy, infrastructure, healthcare and real estate, in Qatar, the GCC and internationally."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Does Aryx work outside Qatar?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Yes. Aryx is headquartered in Doha and works with organizations across the GCC and internationally. [CONFIRM delivery geography]"
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How does an engagement with Aryx begin?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Most engagements begin with a strategic conversation about a specific decision or risk. From there, Aryx proposes a scoped assessment, strategy or implementation."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/about",
+        "title": "About Aryx Intelligence | Decision Intelligence, Qatar",
+        "description": "Aryx Intelligence is a Doha-headquartered decision-intelligence company connecting AI, cybersecurity and risk to help leaders decide with clarity.",
+        "canonical": "https://aryxintelligence.com/about",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "About",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "AboutPage",
+                "name": "About Aryx Intelligence | Decision Intelligence, Qatar",
+                "description": "Aryx Intelligence is a Doha-headquartered decision-intelligence company connecting AI, cybersecurity and risk to help leaders decide with clarity."
+            }
+        ]
+    },
+    {
+        "path": "/contact",
+        "title": "Contact Aryx Intelligence | Doha, Qatar",
+        "description": "Start a strategic conversation with Aryx Intelligence about AI, cybersecurity, risk or technology decisions. Headquartered in Doha, Qatar.",
+        "canonical": "https://aryxintelligence.com/contact",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Contact",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "ContactPage",
+                "name": "Contact Aryx Intelligence | Doha, Qatar"
+            }
+        ]
+    },
+    {
+        "path": "/insights",
+        "title": "Insights on AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Executive perspectives on enterprise AI, AI governance, cybersecurity, risk intelligence and technology strategy from Aryx Intelligence.",
+        "canonical": "https://aryxintelligence.com/insights",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Insights",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/industries",
+        "title": "Industries We Serve | Aryx Intelligence",
+        "description": "AI, cybersecurity and risk intelligence for banking, government, energy, infrastructure, real estate, healthcare, manufacturing and more.",
+        "canonical": "https://aryxintelligence.com/industries",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/cybersecurity",
+        "title": "Cybersecurity Strategy & Cyber Risk | Aryx Intelligence",
+        "description": "Cybersecurity strategy, cyber risk, architecture and resilience, managed as a business-risk discipline. Aryx Intelligence advises leaders in Qatar and the GCC.",
+        "canonical": "https://aryxintelligence.com/cybersecurity",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Capabilities",
+                        "item": "https://aryxintelligence.com/#capabilities"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Cybersecurity",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Cybersecurity",
+                "description": "Cybersecurity strategy, cyber risk, architecture and resilience, managed as a business-risk discipline. Aryx Intelligence advises leaders in Qatar and the GCC.",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                },
+                "areaServed": [
+                    "Qatar",
+                    "GCC"
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What is the difference between cybersecurity and cyber resilience?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Cybersecurity aims to prevent compromise. Cyber resilience assumes some attacks will succeed and focuses on continuing critical operations and recovering quickly."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How should a board oversee cyber risk?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "By setting risk appetite, receiving reporting in business terms, testing incident readiness and ensuring accountability is clear between management and the board."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is a cybersecurity maturity assessment?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "A structured review of governance, controls and capabilities against a recognized framework, showing current maturity, gaps and a prioritized improvement plan."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How does AI change cybersecurity?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "AI creates new assets to protect, new attack techniques for adversaries and new tools for defenders. All three need to be in the security strategy."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/enterprise-ai",
+        "title": "Enterprise AI Strategy & Governance | Aryx Intelligence",
+        "description": "Enterprise AI strategy, AI agents, decision intelligence and AI governance built around measurable outcomes. Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/enterprise-ai",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Capabilities",
+                        "item": "https://aryxintelligence.com/#capabilities"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Enterprise AI",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Enterprise AI",
+                "description": "Enterprise AI strategy, AI agents, decision intelligence and AI governance built around measurable outcomes. Aryx Intelligence, Qatar and GCC.",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                },
+                "areaServed": [
+                    "Qatar",
+                    "GCC"
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "Where should we start with enterprise AI?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Start with a decision or process where value is measurable, data exists and the risk is manageable. A focused first use case builds both evidence and governance muscle."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is AI governance?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "AI governance is the set of policies, roles, controls and oversight that ensure AI systems are used safely, lawfully and in line with business objectives across their lifecycle."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How do you keep sensitive data secure when using generative AI?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Through data classification, architecture choices such as private or in-region deployment, access controls and output monitoring, decided before any model sees sensitive data."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is the difference between AI automation and AI agents?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Automation executes a defined task. An agent pursues a goal across steps and systems, choosing actions within limits, so it needs stronger permissions design and oversight."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/industries-energy",
+        "title": "Energy AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Energy companies operate critical infrastructure where IT and operational technology converge, while navigating the ener Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/industries-energy",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/industries"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Energy",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Energy AI, cyber and risk intelligence",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "path": "/climate-intelligence",
+        "title": "Climate Risk & Climate Intelligence | Aryx Intelligence",
+        "description": "Climate risk, emissions data, ESG reporting and transition intelligence connected to enterprise risk and decisions. Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/climate-intelligence",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Capabilities",
+                        "item": "https://aryxintelligence.com/#capabilities"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Climate Intelligence",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Climate Intelligence",
+                "description": "Climate risk, emissions data, ESG reporting and transition intelligence connected to enterprise risk and decisions. Aryx Intelligence, Qatar and GCC.",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                },
+                "areaServed": [
+                    "Qatar",
+                    "GCC"
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What is the difference between climate risk and ESG?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "ESG is a broad set of environmental, social and governance factors. Climate risk is a specific financial risk: the physical and transition impacts of climate change on an organization's value."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What are physical and transition risks?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Physical risks come from climate hazards such as heat, flooding or water stress. Transition risks come from the shift to a low-carbon economy: policy, carbon pricing, technology and market changes."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What are financed emissions?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Financed emissions are the greenhouse gas emissions associated with a financial institution's loans and investments. They are usually the largest part of a bank's or investor's footprint."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Why connect climate to enterprise risk management?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Because climate risk shows up through existing risk types such as credit, operational, market and reputational risk. Managed separately, its effects are underestimated."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/industries-healthcare",
+        "title": "Healthcare AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Healthcare organizations hold highly sensitive data, depend on always-available systems and face growing interest in cli Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/industries-healthcare",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/industries"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Healthcare",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Healthcare AI, cyber and risk intelligence",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "path": "/industries-technology",
+        "title": "Technology AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Technology companies must ship quickly, secure their products and customers, and govern the AI they build into them. Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/industries-technology",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/industries"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Technology",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Technology AI, cyber and risk intelligence",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "path": "/digital-transformation",
+        "title": "Digital Transformation & Technology Strategy | Aryx",
+        "description": "Technology strategy, enterprise architecture, cloud, data and operating models designed for measurable results. Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/digital-transformation",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Capabilities",
+                        "item": "https://aryxintelligence.com/#capabilities"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Digital & Technology Transformation",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Digital & Technology Transformation",
+                "description": "Technology strategy, enterprise architecture, cloud, data and operating models designed for measurable results. Aryx Intelligence, Qatar and GCC.",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                },
+                "areaServed": [
+                    "Qatar",
+                    "GCC"
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What should a technology strategy include?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Business objectives, current-state assessment, target architecture, investment priorities, a sequenced roadmap, governance and the metrics that will show progress."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How do we know if we are ready for AI?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "AI readiness depends mostly on data quality and access, platform maturity, governance and skills. A readiness assessment tests each before significant investment."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How do you measure digital transformation success?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Against business outcomes agreed at the start, such as cost, speed, quality or risk, tracked through delivery and after."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/industries-real-estate",
+        "title": "Real Estate AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Developers and owners manage smart buildings, tenant data, large vendor ecosystems and rising sustainability expectation Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/industries-real-estate",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/industries"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Real Estate",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Real Estate AI, cyber and risk intelligence",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "path": "/industries-manufacturing",
+        "title": "Manufacturing AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Connected factories and global supply chains raise productivity and exposure at the same time. Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/industries-manufacturing",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/industries"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Manufacturing",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Manufacturing AI, cyber and risk intelligence",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "path": "/industries-infrastructure",
+        "title": "Infrastructure AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Transport, utilities and smart-city systems are increasingly connected, long-lived and difficult to modernize without di Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/industries-infrastructure",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/industries"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Infrastructure",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Infrastructure AI, cyber and risk intelligence",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "path": "/risk-decision-intelligence",
+        "title": "Risk Intelligence & Decision Intelligence | Aryx",
+        "description": "Connect technology, cyber, operational, third-party and strategic risk into one executive view. Risk and decision intelligence from Aryx Intelligence.",
+        "canonical": "https://aryxintelligence.com/risk-decision-intelligence",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Capabilities",
+                        "item": "https://aryxintelligence.com/#capabilities"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Risk & Decision Intelligence",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Risk & Decision Intelligence",
+                "description": "Connect technology, cyber, operational, third-party and strategic risk into one executive view. Risk and decision intelligence from Aryx Intelligence.",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                },
+                "areaServed": [
+                    "Qatar",
+                    "GCC"
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What is the difference between risk management and risk intelligence?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Risk management is the overall discipline. Risk intelligence is its forward-looking, connected layer: it interprets changing signals so leaders can act before risks materialize."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is integrated risk management?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Integrated risk management brings risk domains such as cyber, technology, operational and third-party risk into one framework and view, so interdependencies are visible."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can risk be quantified?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Many risks can be estimated in financial or operational terms using scenarios and models. Where data is limited, the honest answer is a range with stated confidence."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Does Aryx replace our GRC platform?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "No. Aryx works with existing GRC tools and data, adding the connection, interpretation and decision layer that registers alone do not provide."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/industries-professional-services",
+        "title": "Professional Services AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Firms hold confidential client information and are adopting generative AI across knowledge work. Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/industries-professional-services",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/industries"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Professional Services",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Professional Services AI, cyber and risk intelligence",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "path": "/insights/ai-governance-for-boards",
+        "title": "AI Governance for Boards: What Directors Must Ask | Aryx",
+        "description": "AI governance for boards is now a fiduciary issue. The oversight model, regulatory context and questions directors need for GCC and global enterprises.",
+        "canonical": "https://aryxintelligence.com/insights/ai-governance-for-boards",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Insights",
+                        "item": "https://aryxintelligence.com/insights"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "AI Governance for Boards: The Questions That Now Define Oversight",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                "headline": "AI Governance for Boards: The Questions That Now Define Oversight",
+                "description": "AI governance for boards is now a fiduciary issue. The oversight model, regulatory context and questions directors need for GCC and global enterprises.",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                },
+                "author": {
+                    "@type": "Person",
+                    "name": "[AUTHOR]"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What is AI governance for boards?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "It is the board's role in setting AI risk appetite, assigning accountability, obtaining assurance and keeping AI oversight current. Management runs AI governance; the board ensures it is effective."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Is AI governance a legal requirement for boards?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "In some sectors and jurisdictions, yes. Qatar's central bank, for example, places AI accountability with the boards of licensed entities. Elsewhere it is increasingly a fiduciary expectation."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is an AI register?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "An AI register is an inventory of every AI system an organization uses, recording its purpose, owner, risk level, data, vendor and controls."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Does the EU AI Act apply to companies in the GCC?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "It can. The Act applies to providers placing AI on the EU market and to deployers whose AI outputs are used in the EU, regardless of where they are based."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "When do EU AI Act high-risk obligations apply?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "For stand-alone high-risk systems listed in Annex III, from 2 December 2027, following the Digital Omnibus. Transparency obligations under Article 50 have applied since 2 August 2026."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is ISO/IEC 42001?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "ISO/IEC 42001 is the international standard for AI management systems, setting requirements for establishing, operating and improving AI governance within an organization."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/insights/cyber-resilience-strategy",
+        "title": "Cyber Resilience Strategy: A Board-Level Guide | Aryx",
+        "description": "A cyber resilience strategy assumes some attacks will succeed. How boards and executives define the minimum viable enterprise, measure recovery and govern it.",
+        "canonical": "https://aryxintelligence.com/insights/cyber-resilience-strategy",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Insights",
+                        "item": "https://aryxintelligence.com/insights"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Cyber Resilience Strategy: Leading When Prevention Is Not Enough",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                "headline": "Cyber Resilience Strategy: Leading When Prevention Is Not Enough",
+                "description": "A cyber resilience strategy assumes some attacks will succeed. How boards and executives define the minimum viable enterprise, measure recovery and govern it.",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                },
+                "author": {
+                    "@type": "Person",
+                    "name": "[AUTHOR]"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What is a cyber resilience strategy?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "A cyber resilience strategy is a plan to keep critical services running and recover quickly from cyber attacks, combining prioritization, protection, testing and recovery."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is the difference between cybersecurity and cyber resilience?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Cybersecurity aims to prevent attacks. Cyber resilience assumes some will succeed and focuses on continuing operations and recovering."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is the Minimum Viable Enterprise?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "It is the smallest set of services, systems, data and people an organization needs to keep operating through a severe incident, used to prioritize resilience investment."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How should boards measure cyber resilience?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "With outcome metrics such as tested recovery times for critical services, time to contain incidents, supplier fallbacks and the results of crisis exercises."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is NIST CSF 2.0's Govern function?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Govern is the function added in NIST Cybersecurity Framework 2.0 that covers cyber risk strategy, roles, policy and oversight within enterprise risk management."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Is the NIA standard mandatory in Qatar?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "The National Information Assurance standard is mandatory for government entities and critical infrastructure operators in Qatar and is maintained by the National Cyber Security Agency. Other organizations often adopt it as best practice."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/industries-government-public-sector",
+        "title": "Government & Public Sector AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Governments are digitizing services and adopting AI while protecting national data, critical services and public trust. Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/industries-government-public-sector",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/industries"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Government & Public Sector",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Government & Public Sector AI, cyber and risk intelligence",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "path": "/insights/integrated-risk-management",
+        "title": "Integrated Risk Management: Beyond the GRC Tool | Aryx",
+        "description": "Integrated risk management connects cyber, technology, third-party and operational risk so leaders see combined exposure. A practical model for executives.",
+        "canonical": "https://aryxintelligence.com/insights/integrated-risk-management",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Insights",
+                        "item": "https://aryxintelligence.com/insights"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Integrated Risk Management: Seeing the Risks Between Your Risk Registers",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                "headline": "Integrated Risk Management: Seeing the Risks Between Your Risk Registers",
+                "description": "Integrated risk management connects cyber, technology, third-party and operational risk so leaders see combined exposure. A practical model for executives.",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                },
+                "author": {
+                    "@type": "Person",
+                    "name": "[AUTHOR]"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What is integrated risk management?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Integrated risk management brings risk domains such as cyber, technology, operational and third-party risk into one framework, data model and decision process, so combined exposures are visible."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How is IRM different from GRC?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "GRC focuses on documenting risks, controls and compliance. IRM focuses on how risks connect and what decisions they require, using continuous data and scenarios."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Is integrated risk management the same as ERM?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "No. Enterprise risk management is the overall discipline and framework. IRM is the practical integration of risk data, processes and technology that lets ERM work across domains."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is risk aggregation?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Risk aggregation is the combining of individual risks to understand total or combined exposure, accounting for dependencies rather than simply adding scores."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Where should an organization start with IRM?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "With a common risk taxonomy and a map of important business services, linked to the assets and suppliers they depend on."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can risk be quantified in IRM?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Often, using scenarios and models that produce ranges. Where data is thin, stated confidence levels keep quantification honest."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/industries-banking-financial-services",
+        "title": "Banking & Financial Services AI, Cyber & Risk | Aryx Intelligence",
+        "description": "Banks must adopt AI and digital channels quickly while meeting some of the most demanding supervisory expectations for c Aryx Intelligence, Qatar and GCC.",
+        "canonical": "https://aryxintelligence.com/industries-banking-financial-services",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Industries",
+                        "item": "https://aryxintelligence.com/industries"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Banking & Financial Services",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Service",
+                "name": "Banking & Financial Services AI, cyber and risk intelligence",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "path": "/insights/climate-risk-management-banking",
+        "title": "Climate Risk Management in Banking: A GCC Guide | Aryx",
+        "description": "Climate risk management in banking now spans IFRS S2, PCAF financed emissions and stress testing. What GCC and global bank leaders need to decide next.",
+        "canonical": "https://aryxintelligence.com/insights/climate-risk-management-banking",
+        "jsonLd": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Aryx Intelligence",
+                "url": "https://aryxintelligence.com",
+                "logo": "https://aryxintelligence.com/logo.png",
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Doha",
+                    "addressCountry": "QA"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://aryxintelligence.com/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Insights",
+                        "item": "https://aryxintelligence.com/insights"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Climate Risk Management in Banking: From Disclosure to Decision",
+                        "item": "https://aryxintelligence.com/"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                "headline": "Climate Risk Management in Banking: From Disclosure to Decision",
+                "description": "Climate risk management in banking now spans IFRS S2, PCAF financed emissions and stress testing. What GCC and global bank leaders need to decide next.",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Aryx Intelligence"
+                },
+                "author": {
+                    "@type": "Person",
+                    "name": "[AUTHOR]"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What is climate risk management in banking?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "It is the identification, measurement, monitoring and control of financial risks from climate change, integrated into credit, market, operational and strategic risk management."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What are financed emissions?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Financed emissions are greenhouse gas emissions attributable to a financial institution's loans and investments. They fall under Scope 3, Category 15 of the GHG Protocol."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is the PCAF standard?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "PCAF's Global GHG Accounting and Reporting Standard sets methods for financial institutions to measure financed, facilitated and insurance-associated emissions. Part A, on financed emissions, reached its third edition in December 2025."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Is IFRS S2 mandatory for banks in Qatar?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Yes. QCB-regulated banks and insurers must report under IFRS S1 and S2 for financial years beginning on or after 1 January 2026, with first reports in 2027."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is the difference between physical and transition risk?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Physical risk comes from climate hazards such as heat, flooding and water stress. Transition risk comes from policy, technology and market shifts toward a lower-carbon economy."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is a PCAF data quality score?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "A score from 1 to 5 indicating the reliability of emissions data used for each exposure, from verified reported emissions (1) to broad estimates (5)."
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
