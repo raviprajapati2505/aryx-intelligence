@@ -2,10 +2,12 @@
 
 namespace Tests\Feature;
 
+use App\Mail\InquiryReceived;
 use App\Models\Inquiry;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Http\Client\Factory;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Mail;
 use Tests\TestCase;
 
 class AssistantTest extends TestCase
@@ -88,6 +90,34 @@ class AssistantTest extends TestCase
             'area' => 'Cybersecurity',
             'consent' => true,
         ]);
+    }
+
+    public function test_a_completed_briefing_emails_the_contact_inbox(): void
+    {
+        config([
+            'services.brevo.key' => 'test-key',
+            'services.contact.email' => 'anjumarshad07@gmail.com',
+        ]);
+        Mail::fake();
+
+        $history = [];
+        $this->turn($history, 'Book a briefing');
+        $this->turn($history, 'Amina Rahman, Gulf National Bank');
+        $this->turn($history, 'Chief Risk Officer, amina@gulf.example');
+        $this->postJson('/api/assistant/messages', [
+            'locale' => 'en',
+            'messages' => array_merge($history, [[
+                'role' => 'user',
+                'content' => 'ISO 27001 readiness before the next board review',
+            ]]),
+        ])->assertOk();
+
+        Mail::assertSent(InquiryReceived::class, function (InquiryReceived $mail) {
+            return $mail->hasTo('anjumarshad07@gmail.com')
+                && $mail->source === 'Website assistant'
+                && $mail->inquiry->email === 'amina@gulf.example'
+                && str_contains($mail->render(), 'ISO 27001 readiness');
+        });
     }
 
     public function test_yes_after_a_price_answer_starts_the_briefing(): void

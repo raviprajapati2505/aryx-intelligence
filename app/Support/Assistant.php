@@ -3,11 +3,14 @@
 namespace App\Support;
 
 use App\Models\Inquiry;
+use App\Services\ContactNotifier;
 use Illuminate\Support\Facades\Http;
 use Throwable;
 
 class Assistant
 {
+    public function __construct(private ContactNotifier $mailer) {}
+
     /**
      * @param  array<int, array{role: string, content: string}>  $messages
      * @return array{reply: string}
@@ -110,7 +113,7 @@ class Assistant
             ->exists();
 
         if (! $exists) {
-            Inquiry::create([
+            $inquiry = Inquiry::create([
                 'name' => $lead['name'],
                 'title' => $lead['role'],
                 'organization' => $lead['organization'],
@@ -119,6 +122,8 @@ class Assistant
                 'message' => $need,
                 'consent' => true,
             ]);
+
+            $this->mailer->inquiry($inquiry, 'Website assistant');
         }
 
         return str_replace(

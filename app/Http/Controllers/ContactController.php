@@ -4,12 +4,15 @@ namespace App\Http\Controllers;
 
 use App\Models\BriefSubscription;
 use App\Models\Inquiry;
+use App\Services\ContactNotifier;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Validation\Rule;
 
 class ContactController extends Controller
 {
+    public function __construct(private ContactNotifier $mailer) {}
+
     public function store(Request $request): JsonResponse
     {
         $data = $request->validate([
@@ -37,7 +40,7 @@ class ContactController extends Controller
             ]);
         }
 
-        Inquiry::create([
+        $inquiry = Inquiry::create([
             'name' => $data['name'],
             'title' => $data['title'] ?? null,
             'organization' => $data['organization'],
@@ -47,6 +50,8 @@ class ContactController extends Controller
             'message' => $data['message'],
             'consent' => true,
         ]);
+
+        $this->mailer->inquiry($inquiry, 'Contact form');
 
         return response()->json([
             'message' => 'Received. Aryx will follow up on this conversation.',
@@ -59,9 +64,13 @@ class ContactController extends Controller
             'email' => ['required', 'email', 'max:180'],
         ]);
 
+        $email = strtolower($data['email']);
+
         BriefSubscription::firstOrCreate([
-            'email' => strtolower($data['email']),
+            'email' => $email,
         ]);
+
+        $this->mailer->subscription($email);
 
         return response()->json([
             'message' => 'You are on the list for The Aryx Brief.',

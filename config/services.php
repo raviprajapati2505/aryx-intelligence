@@ -34,6 +34,14 @@ return [
         'url' => env('ASSISTANT_API_URL', 'https://api.openai.com/v1/chat/completions'),
     ],
 
+    'brevo' => [
+        'key' => env('BREVO_API_KEY'),
+    ],
+
+    'contact' => [
+        'email' => env('CONTACT_NOTIFY_EMAIL'),
+    ],
+
     'slack' => [
         'notifications' => [
             'bot_user_oauth_token' => env('SLACK_BOT_USER_OAUTH_TOKEN'),
