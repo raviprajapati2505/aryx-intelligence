@@ -683,3 +683,63 @@ html.no-gl .drag-zone,html.no-gl .drag-hint{display:none}
 .newsband .news{flex-wrap:wrap}
 .newsband .news input{min-width:0;flex:1 1 180px;padding:12px}
 .newsband .news button{flex:1 1 auto;padding:12px 14px;border-right:0}
+
+/* Website assistant: fixed corner widget, not a page */
+.ax{position:fixed;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));z-index:40;display:flex;flex-direction:column;align-items:flex-end;gap:12px;width:min(400px,calc(100vw - 32px));font-family:var(--f-text);font-size:15px;line-height:1.5;color:var(--charcoal);pointer-events:none}
+.ax-panel,.ax-launch{pointer-events:auto}
+.ax-panel{width:100%;height:min(640px,calc(100dvh - 108px));display:flex;flex-direction:column;background:var(--porcelain);color:var(--charcoal);border:1px solid var(--line-light);box-shadow:0 24px 60px -28px rgba(6,19,16,.65);clip-path:polygon(0 0,calc(100% - 18px) 0,100% 18px,100% 100%,0 100%);overflow:hidden;transform-origin:bottom right;opacity:0;transform:translateY(18px) scale(.96);transition:opacity .32s var(--ease),transform .42s var(--ease)}
+.ax-panel.in{opacity:1;transform:none}
+.ax-panel:not(.in){pointer-events:none}
+.ax-panel[dir="rtl"]{font-family:"IBM Plex Sans Arabic",var(--f-text);transform-origin:bottom left}
+.ax-head{display:flex;align-items:center;gap:10px;padding:14px 22px 14px 14px;border-bottom:1px solid var(--line-light);background:var(--porcelain)}
+.ax-avatar{width:36px;height:36px;flex:none;display:grid;place-items:center;background:var(--emerald-900);color:#fff;font-family:var(--f-display);font-weight:700}
+.ax-who{min-width:0;flex:1}
+.ax-who b{display:block;font-weight:600;font-size:15px}
+.ax-who small{display:block;color:var(--sage-strong);font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ax-dot{display:inline-block;width:7px;height:7px;margin-inline-end:6px;border-radius:50%;background:#1f8a5b;vertical-align:1px;animation:ax-live 2.2s ease-out infinite}
+.ax-lang{display:flex;border:1px solid var(--line-light);flex:none}
+.ax-lang button{font-family:var(--f-mono);font-size:11px;letter-spacing:.06em;background:transparent;border:0;color:var(--sage-strong);padding:5px 8px;cursor:pointer}
+.ax-lang button[aria-pressed="true"]{background:var(--emerald-900);color:#fff}
+.ax-x{width:32px;height:32px;flex:none;border:1px solid var(--line-light);background:transparent;cursor:pointer;position:relative}
+.ax-x::before,.ax-x::after{content:"";position:absolute;left:50%;top:50%;width:12px;height:1.5px;background:var(--charcoal);transform:translate(-50%,-50%) rotate(45deg)}
+.ax-x::after{transform:translate(-50%,-50%) rotate(-45deg)}
+.ax-log{flex:1;overflow-y:auto;overscroll-behavior:contain;padding:14px;display:flex;flex-direction:column;gap:10px;background:var(--porcelain)}
+.ax-msg{max-width:88%;padding:10px 12px;white-space:pre-wrap;overflow-wrap:anywhere}
+.ax-msg.ax-in{animation:ax-rise .4s var(--ease) backwards}
+.ax-typing{display:inline-flex;gap:5px;align-items:center;min-height:22px;min-width:52px}
+.ax-typing span{width:6px;height:6px;border-radius:50%;background:var(--emerald-600);animation:ax-bounce 1s var(--ease) infinite}
+.ax-typing span:nth-child(2){animation-delay:.15s}
+.ax-typing span:nth-child(3){animation-delay:.3s}
+.ax-msg.bot{align-self:flex-start;background:var(--porcelain-2);color:var(--charcoal)}
+.ax-msg.me{align-self:flex-end;background:var(--emerald-900);color:#fff}
+.ax-chips{display:flex;flex-wrap:wrap;gap:6px;padding:0 14px 10px;background:var(--porcelain)}
+.ax-chips button{font:500 13px var(--f-text);border:1px solid var(--line-light);background:var(--porcelain);color:var(--charcoal);padding:6px 10px;cursor:pointer;text-align:start;animation:ax-rise .45s var(--ease) backwards;transition:border-color .2s,color .2s,transform .35s var(--ease)}
+.ax-chips button:nth-child(2){animation-delay:.05s}
+.ax-chips button:nth-child(3){animation-delay:.1s}
+.ax-chips button:nth-child(4){animation-delay:.15s}
+.ax-chips button:hover{border-color:var(--emerald-900);color:var(--emerald-900);transform:translateY(-1px)}
+.ax-chips button:disabled{opacity:.5;cursor:default}
+.ax-panel form{display:flex;gap:8px;padding:12px 14px;border-top:1px solid var(--line-light);background:var(--porcelain)}
+.ax-panel input{flex:1;min-width:0;font:15px var(--f-text);padding:10px 12px;border:1px solid var(--line-light);background:var(--porcelain-2);color:var(--charcoal)}
+.ax-panel form button{font:600 14px var(--f-text);border:0;padding:0 14px;background:var(--emerald-900);color:#fff;cursor:pointer}
+.ax-panel form button:disabled{opacity:.5;cursor:default}
+.ax-note{margin:0;padding:0 14px 12px;font-size:12px;color:var(--sage-strong);background:var(--porcelain)}
+.ax-note a{color:var(--emerald-900);font-weight:600}
+.ax-launch{position:relative;display:inline-flex;align-items:center;gap:10px;border:0;background:var(--emerald-900);color:#fff;font-weight:600;font-size:15px;padding:14px 18px;cursor:pointer;box-shadow:0 16px 40px -18px rgba(6,19,16,.8);clip-path:polygon(0 0,calc(100% - 12px) 0,100% 12px,100% 100%,0 100%);transition:background .2s,transform .35s var(--ease)}
+.ax-launch:hover{background:#006B5F;transform:translateY(-2px)}
+.ax-launch svg{width:18px;height:18px;flex:none;animation:ax-pop .35s var(--ease)}
+.ax-launch svg path{fill:none;stroke:#fff;stroke-width:1.6;stroke-linejoin:miter}
+.ax-panel :focus-visible,.ax-launch:focus-visible{outline:2px solid var(--emerald-900);outline-offset:2px}
+@media (max-width:640px){
+  .ax-launch{padding:14px}
+  .ax-launch-label{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  .ax-launch svg{width:20px;height:20px}
+}
+@keyframes ax-rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes ax-pop{from{opacity:0;transform:scale(.7) rotate(-10deg)}to{opacity:1;transform:none}}
+@keyframes ax-live{0%{box-shadow:0 0 0 0 rgba(31,138,91,.5)}70%{box-shadow:0 0 0 6px rgba(31,138,91,0)}100%{box-shadow:0 0 0 0 rgba(31,138,91,0)}}
+@keyframes ax-bounce{0%,70%,100%{transform:translateY(0);opacity:.35}35%{transform:translateY(-4px);opacity:1}}
+@media (prefers-reduced-motion:reduce){
+  .ax-panel,.ax-launch,.ax-launch svg,.ax-msg,.ax-chips button,.ax-dot,.ax-typing span{animation:none;transition:none}
+  .ax-panel{opacity:1;transform:none}
+}

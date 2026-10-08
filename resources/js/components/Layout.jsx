@@ -2,6 +2,7 @@ import { useLayoutEffect } from 'react';
 import { Outlet, useLocation, useMatches } from 'react-router-dom';
 import Header from './Header';
 import Footer from './Footer';
+import AssistantWidget from './AssistantWidget';
 import { mountGl } from '../gl/stage';
 import { mountSite } from '../lib/site';
 
@@ -131,6 +132,7 @@ export default function Layout() {
             <Header />
             <Outlet />
             <Footer />
+            <AssistantWidget />
         </>
     );
 }

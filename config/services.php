@@ -28,6 +28,12 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'assistant' => [
+        'key' => env('OPENAI_API_KEY'),
+        'model' => env('ASSISTANT_MODEL', 'gpt-4o-mini'),
+        'url' => env('ASSISTANT_API_URL', 'https://api.openai.com/v1/chat/completions'),
+    ],
+
     'slack' => [
         'notifications' => [
             'bot_user_oauth_token' => env('SLACK_BOT_USER_OAUTH_TOKEN'),

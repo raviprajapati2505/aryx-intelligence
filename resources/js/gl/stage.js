@@ -62,10 +62,12 @@ const P = {
   rightLow:[[0.0885,0.0966],[1.5856,-1.0141],[0.0885,-0.4024]],
   rightUp:[[0.0885,1.0141],[1.65,-0.982],[0.0724,0.338],[0.0724,0.66]]
 };
-const mat = new THREE.MeshPhysicalMaterial({color:0x031D19, metalness:.25, roughness:.32, clearcoat:.85, clearcoatRoughness:.12, envMapIntensity:.95});
-const mat2 = mat.clone(); mat2.color.set(0x053931);
-const shardMat = new THREE.MeshPhysicalMaterial({color:0x075549, metalness:.15, roughness:.22, clearcoat:1, emissive:new THREE.Color(0x075549), emissiveIntensity:.2, envMapIntensity:1.1});
-const edgeMat = new THREE.LineBasicMaterial({color:0x075549, transparent:true, opacity:.2, blending:THREE.AdditiveBlending, depthWrite:false});
+const markColor = (hex) => new THREE.Color(hex).convertSRGBToLinear();
+const markMaterial = (hex) => new THREE.MeshStandardMaterial({color:markColor(hex), metalness:.05, roughness:.58, envMapIntensity:0, toneMapped:false, fog:false});
+const mat = markMaterial(0x031D19);
+const mat2 = markMaterial(0x053931);
+const shardMat = markMaterial(0x075549);
+const edgeMat = new THREE.LineBasicMaterial({color:markColor(0x075549), transparent:true, opacity:.2, toneMapped:false, depthWrite:false});
 const pieces = [];
 function makePiece(pts, m, depth, dir, zOff){
   const s = new THREE.Shape(); s.moveTo(pts[0][0],pts[0][1]); pts.slice(1).forEach(p=>s.lineTo(p[0],p[1])); s.closePath();
@@ -80,6 +82,11 @@ makePiece(P.leftLow, mat, .36, [-.82,-.55,.28], 0);
 makePiece(P.rightLow, mat2, .36, [.78,-.48,.32], 0);
 makePiece(P.rightUp, shardMat, .32, [.72,.52,-.22], .04);
 obj.position.y = 0;
+camera.layers.enable(1);
+obj.traverse((node) => node.layers.set(1));
+const markAmb = new THREE.AmbientLight(0xffffff, .62); markAmb.layers.set(1); scene.add(markAmb);
+const markKey = new THREE.DirectionalLight(0xffffff, .55); markKey.position.set(-3.2, 5.4, 6.5); markKey.layers.set(1); scene.add(markKey);
+const markFill = new THREE.DirectionalLight(0xf4f7f6, .22); markFill.position.set(4.5, .4, -3.5); markFill.layers.set(1); scene.add(markFill);
 
 /* shared helpers */
 const SIGNAL = new THREE.Color(0x3dd6b0);
