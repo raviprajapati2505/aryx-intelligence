@@ -517,8 +517,8 @@ class Assistant
                 'مرحبًا بكم في آريكس إنتليجنس. يمكنني تعريفكم بخدماتنا في الذكاء الاصطناعي والأمن السيبراني وإدارة المخاطر والتقنيات المناخية، أو ترتيب لقاء تعريفي مع فريقنا. كيف يمكنني مساعدتكم اليوم؟',
             ],
             'about' => [
-                'Aryx Intelligence is a Doha-based enterprise intelligence firm. We connect AI and data, cybersecurity, risk and internal audit, digital transformation and climate technology, so leaders can decide with one line of sight. What challenge is your organisation working through?',
-                'آريكس إنتليجنس شركة استخبارات مؤسسية مقرها الدوحة. نربط الذكاء الاصطناعي والبيانات والأمن السيبراني والمخاطر والتدقيق الداخلي والتحول الرقمي والتقنيات المناخية في خط نظر واحد للقيادات. ما التحدي الذي تعمل عليه مؤسستكم؟',
+                'Aryx Intelligence is a Qatar-based enterprise intelligence firm. We connect AI and data, cybersecurity, risk and internal audit, digital transformation and climate technology, so leaders can decide with one line of sight. What challenge is your organisation working through?',
+                'آريكس إنتليجنس شركة استخبارات مؤسسية مقرها قطر. نربط الذكاء الاصطناعي والبيانات والأمن السيبراني والمخاطر والتدقيق الداخلي والتحول الرقمي والتقنيات المناخية في خط نظر واحد للقيادات. ما التحدي الذي تعمل عليه مؤسستكم؟',
             ],
             'cyber' => [
                 'Aryx supports cybersecurity strategy and ISO 27001 readiness: gap assessment, risk treatment, policies and audit preparation. Timelines are confirmed in a briefing, not quoted here. What sector are you in?',
@@ -545,12 +545,12 @@ class Assistant
                 'تعمل آريكس مع مؤسسات في الخدمات المصرفية والمالية، والحكومة، والطاقة، والبنية التحتية، والعقار، والرعاية الصحية، والتصنيع، والتقنية، والخدمات المهنية. أيها الأقرب إليكم؟',
             ],
             'where' => [
-                'Aryx is headquartered in Doha, Qatar, and works with institutions across the GCC and beyond. How can we help your organisation?',
-                'مقر آريكس في الدوحة، قطر، وتعمل مع مؤسسات في دول مجلس التعاون وخارجها. كيف يمكننا مساعدة مؤسستكم؟',
+                'Aryx is headquartered in Qatar, and works with institutions across the GCC and beyond. How can we help your organisation?',
+                'مقر آريكس في قطر، وتعمل مع مؤسسات في دول مجلس التعاون وخارجها. كيف يمكننا مساعدة مؤسستكم؟',
             ],
             'default' => [
-                'Aryx Intelligence is a Doha-based enterprise intelligence firm working across AI, cybersecurity, risk and climate tech. Tell me a little about your organisation and I will point you to the right conversation.',
-                'آريكس إنتليجنس شركة استخبارات مؤسسية مقرها الدوحة، وتعمل في الذكاء الاصطناعي والأمن السيبراني والمخاطر والتقنيات المناخية. حدثوني قليلًا عن مؤسستكم لأوجهكم إلى الحوار المناسب.',
+                'Aryx Intelligence is a Qatar-based enterprise intelligence firm working across AI, cybersecurity, risk and climate tech. Tell me a little about your organisation and I will point you to the right conversation.',
+                'آريكس إنتليجنس شركة استخبارات مؤسسية مقرها قطر، وتعمل في الذكاء الاصطناعي والأمن السيبراني والمخاطر والتقنيات المناخية. حدثوني قليلًا عن مؤسستكم لأوجهكم إلى الحوار المناسب.',
             ],
             'price' => [
                 'I do not quote prices, fees or timelines. Those are scoped in a briefing with the team. Shall I arrange one?',

@@ -136,7 +136,7 @@ export default function AssistantWidget() {
                         <div className="ax-avatar" aria-hidden="true">A</div>
                         <div className="ax-who">
                             <b id={titleId}>Aryx Assistant</b>
-                            <small><span className="ax-dot" />Enterprise intelligence, Doha</small>
+                            <small><span className="ax-dot" />Enterprise intelligence, Qatar</small>
                         </div>
                         <div className="ax-lang" role="group" aria-label="Language">
                             <button type="button" aria-pressed={locale === 'en'} onClick={() => chooseLocale('en')}>EN</button>

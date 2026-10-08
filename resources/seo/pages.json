@@ -14,7 +14,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -65,7 +65,7 @@
                         "name": "Does Aryx work outside Qatar?",
                         "acceptedAnswer": {
                             "@type": "Answer",
-                            "text": "Yes. Aryx is headquartered in Doha and works with organizations across the GCC and internationally. [CONFIRM delivery geography]"
+                            "text": "Yes. Aryx is headquartered in Qatar and works with organizations across the GCC and internationally."
                         }
                     },
                     {
@@ -83,7 +83,7 @@
     {
         "path": "/about",
         "title": "About Aryx Intelligence | Decision Intelligence, Qatar",
-        "description": "Aryx Intelligence is a Doha-headquartered decision-intelligence company connecting AI, cybersecurity and risk to help leaders decide with clarity.",
+        "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity and risk to help leaders decide with clarity.",
         "canonical": "https://aryxintelligence.com/about",
         "jsonLd": [
             {
@@ -95,7 +95,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -121,14 +121,14 @@
                 "@context": "https://schema.org",
                 "@type": "AboutPage",
                 "name": "About Aryx Intelligence | Decision Intelligence, Qatar",
-                "description": "Aryx Intelligence is a Doha-headquartered decision-intelligence company connecting AI, cybersecurity and risk to help leaders decide with clarity."
+                "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity and risk to help leaders decide with clarity."
             }
         ]
     },
     {
         "path": "/contact",
-        "title": "Contact Aryx Intelligence | Doha, Qatar",
-        "description": "Start a strategic conversation with Aryx Intelligence about AI, cybersecurity, risk or technology decisions. Headquartered in Doha, Qatar.",
+        "title": "Contact Aryx Intelligence | Qatar",
+        "description": "Start a strategic conversation with Aryx Intelligence about AI, cybersecurity, risk or technology decisions. Headquartered in Qatar.",
         "canonical": "https://aryxintelligence.com/contact",
         "jsonLd": [
             {
@@ -140,7 +140,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -165,7 +165,7 @@
             {
                 "@context": "https://schema.org",
                 "@type": "ContactPage",
-                "name": "Contact Aryx Intelligence | Doha, Qatar"
+                "name": "Contact Aryx Intelligence | Qatar"
             }
         ]
     },
@@ -184,7 +184,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -223,7 +223,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -262,7 +262,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -359,7 +359,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -456,7 +456,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -510,7 +510,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -607,7 +607,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -661,7 +661,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -715,7 +715,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -804,7 +804,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -858,7 +858,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -912,7 +912,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -966,7 +966,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -1063,7 +1063,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -1117,7 +1117,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -1156,7 +1156,7 @@
                 },
                 "author": {
                     "@type": "Person",
-                    "name": "[AUTHOR]"
+                    "name": "Dr Anjum Arshad"
                 }
             },
             {
@@ -1230,7 +1230,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -1269,7 +1269,7 @@
                 },
                 "author": {
                     "@type": "Person",
-                    "name": "[AUTHOR]"
+                    "name": "Dr Anjum Arshad"
                 }
             },
             {
@@ -1343,7 +1343,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -1397,7 +1397,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -1436,7 +1436,7 @@
                 },
                 "author": {
                     "@type": "Person",
-                    "name": "[AUTHOR]"
+                    "name": "Dr Anjum Arshad"
                 }
             },
             {
@@ -1510,7 +1510,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -1564,7 +1564,7 @@
                 "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Doha",
+                    "addressLocality": "Qatar",
                     "addressCountry": "QA"
                 }
             },
@@ -1603,7 +1603,7 @@
                 },
                 "author": {
                     "@type": "Person",
-                    "name": "[AUTHOR]"
+                    "name": "Dr Anjum Arshad"
                 }
             },
             {

@@ -60,7 +60,7 @@ EnterpriseAiPage.meta = {
             "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Doha",
+                "addressLocality": "Qatar",
                 "addressCountry": "QA"
             }
         },

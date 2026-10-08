@@ -25,7 +25,7 @@ export default function IndustriesProfessionalServicesPage() {
 </div></div></section>
 <section className={"light sec tight"} aria-label={"Related insight"}><div className={"wrap"}><p className={"eyebrow rv"} style={{marginBottom: "22px"}}>Related insight</p><div className={"ins-grid"}><Link className={"art rv"} to={"/insights/ai-governance-for-boards"} data-cat={"ai-governance executive"}><div className={"fig"} aria-hidden={"true"}><svg viewBox={"0 0 200 125"} role={"img"} aria-label={"The Four A's: Appetite, Accountability, Assurance, Adaptation"}><g transform={"translate(40 8)"}><polygon className={"ff"} points={"2,2 58,2 58,52 2,52"} /><polygon className={"fl"} points={"2,2 58,2 58,52 2,52"} /><polygon className={"fl"} points={"62,2 106,2 118,14 118,52 62,52"} /><polygon className={"fl"} points={"2,56 58,56 58,108 2,108"} /><polygon className={"fl"} points={"62,56 118,56 118,108 62,108"} /><text x={"7"} y={"47"}>APPETITE</text><text x={"67"} y={"47"}>ACCOUNTABILITY</text><text x={"7"} y={"102"}>ASSURANCE</text><text x={"67"} y={"102"}>ADAPTATION</text></g></svg></div><div className={"art-body"}><p className={"meta"}>AI governance · Boards</p><h3>AI Governance for Boards: The Questions That Now Define Oversight</h3><p className={"slug"}>6 min read · /insights/ai-governance-for-boards</p></div></Link></div></div></section>
 <section className={"light sec tight"} aria-label={"Capabilities in context"}><div className={"wrap"}><p className={"eyebrow rv"} style={{marginBottom: "22px"}}>Capabilities in context</p><div className={"related"}><Link className={"rel rv"} to={"/enterprise-ai"}><small>Enterprise AI</small><b>Strategy, agents and AI governance</b><span className={"go"}>Explore →</span></Link><Link className={"rel rv"} to={"/cybersecurity"}><small>Cybersecurity</small><b>Strategy, cyber risk and resilience</b><span className={"go"}>Explore →</span></Link><Link className={"rel rv"} to={"/risk-decision-intelligence"}><small>Risk & Decision Intelligence</small><b>Connected risk, scenarios and decisions</b><span className={"go"}>Explore →</span></Link></div></div></section>
-<section className={"light sec tight"} aria-label={"Case study"}><div className={"wrap"}><div className={"empty rv"}>Case study for Professional Services: <span className={"ph"}>[CASE STUDY — only where real and approved]</span></div></div></section>
+
 <section className={"dark closing gl-through"} id={"closing"} data-closing aria-labelledby={"closeH"}>
  <div className={"drag-zone"} data-drag aria-hidden={"true"}></div>
  <svg className={"fallback-emblem"} aria-hidden={"true"}><use href={"#emblem"} /></svg>
@@ -55,7 +55,7 @@ IndustriesProfessionalServicesPage.meta = {
             "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Doha",
+                "addressLocality": "Qatar",
                 "addressCountry": "QA"
             }
         },

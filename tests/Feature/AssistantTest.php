@@ -51,7 +51,7 @@ class AssistantTest extends TestCase
         $reply = $this->ask('ما الذي تقدمه آريكس؟', 'ar');
 
         $this->assertMatchesRegularExpression('/\p{Arabic}/u', $reply);
-        $this->assertStringContainsString('الدوحة', $reply);
+        $this->assertStringContainsString('قطر', $reply);
     }
 
     public function test_briefing_collects_one_lead(): void

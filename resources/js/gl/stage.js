@@ -375,10 +375,10 @@ SCENES.digital = function(){
   };
 };
 
-/* ---------- About & Contact: Doha → GCC cartographic field ---------- */
+/* ---------- About & Contact: Qatar → GCC cartographic field ---------- */
 function mapScene(zoomFrom, zoomTo, contact){
   return function(){
-    const C = [['Doha',25.29,51.53],['Riyadh',24.71,46.68],['Dubai',25.20,55.27],['Abu Dhabi',24.45,54.38],['Kuwait City',29.38,47.98],['Muscat',23.59,58.41],['Manama',26.23,50.59],['Jeddah',21.49,39.19]];
+    const C = [['Qatar',25.29,51.53],['Riyadh',24.71,46.68],['Dubai',25.20,55.27],['Abu Dhabi',24.45,54.38],['Kuwait City',29.38,47.98],['Muscat',23.59,58.41],['Manama',26.23,50.59],['Jeddah',21.49,39.19]];
     const S = .34, xy = (lat,lon) => new THREE.Vector3((lon-51.53)*S, (lat-25.29)*S, 0);
     const map = new THREE.Group(); space.add(map);
     const grat = [];

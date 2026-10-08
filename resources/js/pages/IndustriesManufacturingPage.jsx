@@ -25,7 +25,7 @@ export default function IndustriesManufacturingPage() {
 </div></div></section>
 <section className={"light sec tight"} aria-label={"Related insight"}><div className={"wrap"}><p className={"eyebrow rv"} style={{marginBottom: "22px"}}>Related insight</p><div className={"ins-grid"}><Link className={"art rv"} to={"/insights/integrated-risk-management"} data-cat={"risk"}><div className={"fig"} aria-hidden={"true"}><svg viewBox={"0 0 200 125"} role={"img"} aria-label={"Maturity path: Siloed, Aggregated, Integrated, Intelligent"}><g transform={"translate(14 10)"}><polygon className={"ff"} points={"126,20 170,20 170,104 126,104"} /><polyline className={"fl"} points={"0,104 0,82 42,82 42,62 84,62 84,40 126,40 126,20 170,20 170,104 0,104"} /><line className={"fl"} x1={"42"} y1={"82"} x2={"42"} y2={"104"} /><line className={"fl"} x1={"84"} y1={"62"} x2={"84"} y2={"104"} /><line className={"fl"} x1={"126"} y1={"40"} x2={"126"} y2={"104"} /><text x={"4"} y={"98"}>SILOED</text><text x={"46"} y={"98"}>AGGREGATED</text><text x={"88"} y={"98"}>INTEGRATED</text><text x={"130"} y={"98"}>INTELLIGENT</text></g></svg></div><div className={"art-body"}><p className={"meta"}>Risk intelligence · CROs</p><h3>Integrated Risk Management: Seeing the Risks Between Your Risk Registers</h3><p className={"slug"}>5 min read · /insights/integrated-risk-management</p></div></Link></div></div></section>
 <section className={"light sec tight"} aria-label={"Capabilities in context"}><div className={"wrap"}><p className={"eyebrow rv"} style={{marginBottom: "22px"}}>Capabilities in context</p><div className={"related"}><Link className={"rel rv"} to={"/cybersecurity"}><small>Cybersecurity</small><b>Strategy, cyber risk and resilience</b><span className={"go"}>Explore →</span></Link><Link className={"rel rv"} to={"/risk-decision-intelligence"}><small>Risk & Decision Intelligence</small><b>Connected risk, scenarios and decisions</b><span className={"go"}>Explore →</span></Link><Link className={"rel rv"} to={"/enterprise-ai"}><small>Enterprise AI</small><b>Strategy, agents and AI governance</b><span className={"go"}>Explore →</span></Link></div></div></section>
-<section className={"light sec tight"} aria-label={"Case study"}><div className={"wrap"}><div className={"empty rv"}>Case study for Manufacturing: <span className={"ph"}>[CASE STUDY — only where real and approved]</span></div></div></section>
+
 <section className={"dark closing gl-through"} id={"closing"} data-closing aria-labelledby={"closeH"}>
  <div className={"drag-zone"} data-drag aria-hidden={"true"}></div>
  <svg className={"fallback-emblem"} aria-hidden={"true"}><use href={"#emblem"} /></svg>
@@ -55,7 +55,7 @@ IndustriesManufacturingPage.meta = {
             "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Doha",
+                "addressLocality": "Qatar",
                 "addressCountry": "QA"
             }
         },

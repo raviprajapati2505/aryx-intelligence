@@ -59,7 +59,7 @@ function Footer() {
                 </div>
                 <div className="ft-bot">
                     <span className="promise">Clarity you can act on.</span>
-                    <span>Doha, Qatar · <span className="ph">[OFFICE ADDRESS]</span> · <a href="https://www.linkedin.com/" rel="noopener">LinkedIn</a></span>
+                    <span>HQ Qatar · LinkedIn TBC</span>
                     <span>© 2026 Aryx Intelligence</span>
                 </div>
             </div>

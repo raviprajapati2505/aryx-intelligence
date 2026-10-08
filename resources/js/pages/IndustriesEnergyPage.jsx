@@ -25,7 +25,7 @@ export default function IndustriesEnergyPage() {
 </div></div></section>
 <section className={"light sec tight"} aria-label={"Related insight"}><div className={"wrap"}><p className={"eyebrow rv"} style={{marginBottom: "22px"}}>Related insight</p><div className={"ins-grid"}><Link className={"art rv"} to={"/insights/cyber-resilience-strategy"} data-cat={"cyber executive"}><div className={"fig"} aria-hidden={"true"}><svg viewBox={"0 0 200 125"} role={"img"} aria-label={"Four pillars of cyber resilience"}><g transform={"translate(18 6)"}><polygon className={"fl"} points={"0,14 164,14 154,4 10,4"} /><polygon className={"ff"} points={"8,20 34,20 34,100 8,100"} /><rect className={"fl"} x={"8"} y={"20"} width={"26"} height={"80"} /><rect className={"fl"} x={"50"} y={"20"} width={"26"} height={"80"} /><rect className={"fl"} x={"92"} y={"20"} width={"26"} height={"80"} /><rect className={"fl"} x={"134"} y={"20"} width={"26"} height={"80"} /><line className={"fl"} x1={"0"} y1={"108"} x2={"168"} y2={"108"} /><text x={"2"} y={"118"}>ANTICIPATE · WITHSTAND · RECOVER · ADAPT</text></g></svg></div><div className={"art-body"}><p className={"meta"}>Cyber resilience · Boards</p><h3>Cyber Resilience Strategy: Leading When Prevention Is Not Enough</h3><p className={"slug"}>5 min read · /insights/cyber-resilience-strategy</p></div></Link></div></div></section>
 <section className={"light sec tight"} aria-label={"Capabilities in context"}><div className={"wrap"}><p className={"eyebrow rv"} style={{marginBottom: "22px"}}>Capabilities in context</p><div className={"related"}><Link className={"rel rv"} to={"/cybersecurity"}><small>Cybersecurity</small><b>Strategy, cyber risk and resilience</b><span className={"go"}>Explore →</span></Link><Link className={"rel rv"} to={"/risk-decision-intelligence"}><small>Risk & Decision Intelligence</small><b>Connected risk, scenarios and decisions</b><span className={"go"}>Explore →</span></Link><Link className={"rel rv"} to={"/climate-intelligence"}><small>Climate Intelligence</small><b>Climate risk, GHG, PCAF and ESG data</b><span className={"go"}>Explore →</span></Link></div></div></section>
-<section className={"light sec tight"} aria-label={"Case study"}><div className={"wrap"}><div className={"empty rv"}>Case study for Energy: <span className={"ph"}>[CASE STUDY — only where real and approved]</span></div></div></section>
+
 <section className={"dark closing gl-through"} id={"closing"} data-closing aria-labelledby={"closeH"}>
  <div className={"drag-zone"} data-drag aria-hidden={"true"}></div>
  <svg className={"fallback-emblem"} aria-hidden={"true"}><use href={"#emblem"} /></svg>
@@ -55,7 +55,7 @@ IndustriesEnergyPage.meta = {
             "description": "Aryx Intelligence is a Qatar-headquartered decision-intelligence company connecting AI, cybersecurity, risk, climate and enterprise technology.",
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Doha",
+                "addressLocality": "Qatar",
                 "addressCountry": "QA"
             }
         },
